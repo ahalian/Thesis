@@ -6,6 +6,9 @@ import pandas as pd
 from random import uniform
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from tqdm import tqdm
+ 
 
 BASE_URL = "https://200.zona.media"
 REQUEST_HEADERS = {
@@ -115,26 +118,35 @@ def _extract_profile_data(profile_url):
     }
 
 def scrape_all_profiles():
+    
     """Main function to execute the complete scraping workflow."""
+
     all_profiles = []
-    
-    print("Fetching regions...")
     regions = _get_regions()
-    print(f"Found {len(regions)} regions")
-    
-    for region in regions:
+    for region in tqdm(regions, desc="Collecting profiles"):
         region_url = urljoin(BASE_URL, region)
-        print(f"Processing region: {region_url}")
-        
-        branches = _get_military_branches(region_url)        
+        branches = _get_military_branches(region_url)
         for branch_url in branches:
             profiles = _get_profiles(branch_url)
             all_profiles.extend(profiles)
-    
-    print(f"Total profiles found: {len(all_profiles)}")
-    return [_extract_profile_data(url) for url in all_profiles if url]
 
-def save_to_csv(data, filename="data/daily.csv"):
+    print(f"Total profiles found: {len(all_profiles)}")
+
+    profiles_data = []
+    with ThreadPoolExecutor(max_workers=5) as executor:
+        futures = [executor.submit(_extract_profile_data, url) for url in all_profiles]
+        for future in tqdm(as_completed(futures), total=len(futures), desc="Parsing profiles"):
+            try: 
+                result = future.result()
+                if result:
+                    profiles_data.append(result)
+            except Exception as e:
+                print(f"Thread failed: {e}")
+
+    return profiles_data
+
+
+def save_to_csv(data, filename="../data/daily.csv"):
     """Saves scraped data to a CSV file.
     
     Args:

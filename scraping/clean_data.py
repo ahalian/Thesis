@@ -4,6 +4,7 @@ into a consistent MM.YYYY format or 'NA' for unparseable dates.
 """
 
 import re
+import pandas as pd
 
 # Month name to number mapping
 MONTH_MAP = {
@@ -121,8 +122,8 @@ def normalize_date(date_str: str):
     return _try_pattern_matching(date_str)
 
 if __name__ == "__main__":
-    df = pd.read_csv("data/daily.csv", encoding='utf-8-sig')
+    df = pd.read_csv("../data/daily.csv", encoding='utf-8-sig')
     if 'death_date' in df.columns:
         df['death_month'] = df['death_date'].apply(normalize_date)
-        df.to_csv("data/daily.csv", index=False)
+        df.to_csv("../data/daily.csv", index=False)
         print("Successfully recoded date to MM.YYYY format")
