@@ -1,0 +1,113 @@
+region_type,region,position,governor,start,end,birth_year,insider,approved,nat_rep,Region
+Republics,Adygeya,"Presidents (from 1 May 2011, Heads of the Republic)",Murat Kumpilov,2017-01-12,,1973,1,1,1,Республика Адыгея
+Republics,Altay,"Heads of the Republic, Chairmen of the Government",Oleg Khorokhordin,2019-03-20,2024-06-04,1972,1,1,1,Республика Алтай
+Republics,Altay,"Heads of the Republic, Chairmen of the Government",Andrey Turchak,2024-06-04,,1975,0,1,1,Республика Алтай
+Republics,Bashkortostan,"Presidents (from 1 Jan 2015, Heads of the Republic)",Rady Khabirov,2018-10-11,,1964,1,1,1,Республика Башкортостан
+Republics,Buryatia,"Presidents (from 12 May 2012, Heads of the Republic)",Aleksey Tsydenov,2017-02-07,,1976,1,1,1,Республика Бурятия
+Republics,Chechnya,"Presidents (from 1 May 2011, Heads of the Republic)",Ramzan Kadyrov,2007-02-15,,1976,1,1,1,Чеченская Республика
+Republics,Chuvashia,"Presidents (from 1 Jan 2012, Heads of the Republic)",Oleg Nikolayev,2020-01-29,,1969,1,1,1,Чувашская Республика
+Republics,Dagestan,"Presidents (from 1 Jan 2014, Heads of the Republic)",Sergey Melikov,2020-10-05,,1965,0,1,1,Республика Дагестан
+Republics,Ingushetia,"Presidents (from 1 Jan 2011, Heads of the Republic)",Makhmud-Ali Kalimatov,2019-06-26,,1959,1,1,1,Республика Ингушетия
+Republics,Kabardino-Balkariya,"Presidents (from 1 Jan 2012, Heads of the Republic)",Kazbek Kokov,2018-09-26,,1973,1,1,1,Кабардино-Балкария
+Republics,Kalmykia,"President (from 24 Oct 2005, Heads of the Republic)",Batu Khasikov,2019-03-20,,1980,1,1,1,Республика Калмыкия
+Republics,Karachayevo-Cherkessia,"Heads of the Republic (Sep 2000 - 7 Apr 2011, presidents)",Rashid Temrezov,2011-02-26,,1976,1,1,1,Карачаево-Черкесия
+Republics,Karelia,Heads of the Republic,Artur Parfenchikov,2017-02-15,,1964,1,1,1,Республика Карелия
+Republics,Khakassia,"Chairmen of the Government (from 18 Nov 2010, Heads of the Republic - Chairmen of the Government)",Valentin Konovalov,2018-11-15,,1987,1,0,1,Республика Хакасия
+Republics,Komi,Heads of the Republic,Vladimir Uyba,2020-04-02,2024-11-05,1958,0,1,1,Республика Коми
+Republics,Komi,Heads of the Republic,Rostislav Goldshteyn (acting),2024-11-05,,1969,1,1,1,Республика Коми
+Republics,Mari El,"Presidents (from 10 Jun 2011, Heads of the Republic)",Aleksandr Yevstifeyev,2017-04-06,2022-05-10,1958,0,1,1,Республика Марий Эл
+Republics,Mari El,"Presidents (from 10 Jun 2011, Heads of the Republic)",Yury Zaytsev,2022-05-10,,1970,0,1,1,Республика Марий Эл
+Republics,Mordovia,Heads of the Republic,Artyom Zdunov,2020-11-18,,1978,0,1,1,Республика Мордовия
+Republics,North Ossetia-Alania,Heads of the Republic,Sergey Menyaylo,2021-04-09,,1960,1,1,1,Северная Осетия
+Republics,Sakha,"Presidents (from 24 Apr 2014, Heads of the Republic)",Aysen Nikolayev,2018-05-28,,1972,1,1,1,Якутия
+Republics,Tatarstan,"Presidents (from 6 Feb 2023, Head of the Republic)",Rustam Minnikhanov,2010-03-25,,1957,1,1,1,Республика Татарстан
+Republics,Tuva,"Chairmen of the Government (from 6 Apr 2012, Head - Chairman of the Government)",Vladislav Khovalyg,2021-04-07,,1967,1,1,1,Республика Тыва
+Republics,Udmurtia,Heads of the Republic,Aleksandr Brechalov,2017-04-04,,1973,0,1,1,Удмуртская Республика
+Republics,Crimea,Heads of the Republic,Sergey Aksyonov,2014-10-09,,1972,1,1,0,Республика Крым
+Kraya (regions),Altay,Heads of the administration/governors,Viktor Tomenko,2018-05-30,,1971,0,1,0,Алтайский край
+Kraya (regions),Kamchatka,Governors,Vladimir Solodov,2020-04-03,,1982,0,1,0,Камчатский край
+Kraya (regions),Khabarovsk,Heads of the administration/governors,Mikhail Degtyarev,2020-07-20,2024-05-15,1981,0,1,0,Хабаровский край
+Kraya (regions),Khabarovsk,Heads of the administration/governors,Dmitry Demeshin,2024-05-15,,1976,0,1,0,Хабаровский край
+Kraya (regions),Krasnodar,Heads of the administration/governors,Veniamin Kondratyev,2015-04-22,,1970,1,1,0,Краснодарский край
+Kraya (regions),Krasnoyarsk,Heads of the administration/governors,Aleksandr Uss,2017-09-29,2023-04-2020,1954,1,1,0,Красноярский край
+Kraya (regions),Krasnoyarsk,Heads of the administration/governors,Mikhail Kotyukov,2023-04-20,,1976,1,1,0,Красноярский край
+Kraya (regions),Perm,Governors,Dmitry Makhonin,2020-02-06,,1982,1,1,0,Пермский край
+Kraya (regions),Primorsky,"Heads of the administration (from Dec 1995, governors)",Oleg Kozhemyako,2018-09-26,,1962,0,1,0,Приморский край
+Kraya (regions),Stavropol,Governors,Vladimir Vladimirov,2013-09-27,,1975,1,1,0,Ставропольский край
+Kraya (regions),Zabaykalsky,Governors,Aleksandr Osipov,2018-10-24,,1969,0,1,0,Забайкальский край
+Oblasti (provinces),Amur,Heads of the administration/governors,Vasily Orlov,2018-05-30,,1975,1,1,0,Амурская область
+Oblasti (provinces),Arkhangelsk,Heads of the administration/governors,Aleksandr Tsybulsky,2020-04-02,,1979,1,1,0,Архангельская область без АО
+Oblasti (provinces),Astrakhan,Heads of the administration/governors,Igor Babushkin,2019-06-05,,1970,0,1,0,Астраханская область
+Oblasti (provinces),Belgorod,Heads of the administration/governors,Vyacheslav Gladkov,2020-11-18,,1969,0,1,0,Белгородская область
+Oblasti (provinces),Bryansk,Heads of the administration/governors,Aleksandr Bogomaz,2014-09-09,,1961,1,1,0,Брянская область
+Oblasti (provinces),Chelyabinsk,Heads of the administration/governors,Aleksey Teksler,2019-03-19,,1973,1,1,0,Челябинская область
+Oblasti (provinces),Irkutsk,"Head of the administration (from Mar 1994, governors)",Igor Kobzev,2019-12-12,,1966,0,1,0,Иркутская область
+Oblasti (provinces),Ivanovo,Heads of the administration/governors,Stanislav Voskresensky,2017-10-10,,1976,0,1,0,Ивановская область
+Oblasti (provinces),Kaliningrad,Heads of the administration/governors,Anton Alikhanov,2016-10-06,2024-05-15,1986,0,1,0,Калининградская область
+Oblasti (provinces),Kaliningrad,Heads of the administration/governors,Aleksey Besprozvannykh,2024-05-15,,1979,0,1,0,Калининградская область
+Oblasti (provinces),Kaluga,Governors,Vladislav Shapsha,2020-02-13,,1972,1,1,0,Калужская область
+Oblasti (provinces),Kemerovo,Heads of the administration/governors,Sergey Tsivilyov,2018-04-01,2024-05-15,1961,0,1,0,Кемеровская область
+Oblasti (provinces),Kemerovo,Heads of the administration/governors,Ilya Seredyuk,2024-05-15,,1975,1,1,0,Кемеровская область
+Oblasti (provinces),Kirov,Governors,Igor Vasilyev,2016-07-28,2022-05-10,1961,1,1,0,Кировская область
+Oblasti (provinces),Kirov,Governors,Aleksandr Sokolov,2022-05-10,,1970,0,1,0,Кировская область
+Oblasti (provinces),Kostroma,Heads of the administration/governors,Sergey Sitnikov,2012-04-13,,1963,1,1,0,Костромская область
+Oblasti (provinces),Kurgan,Heads of the administration/governors,Vadim Shumkov,2018-10-02,,1971,1,1,0,Курганская область
+Oblasti (provinces),Kursk,Heads of the administration/governors,Roman Starovoyt,2018-10-11,2024-05-15,1972,1,1,0,Курская область
+Oblasti (provinces),Kursk,Heads of the administration/governors,Aleksey Smirnov,2024-05-15,2024-12-05,1973,1,1,0,Курская область
+Oblasti (provinces),Kursk,Heads of the administration/governors,Aleksandr Khinshtein (acting),2024-12-05,,1974,0,1,0,Курская область
+Oblasti (provinces),Leningrad,Governors,Aleksandr Drozdenko,2012-05-28,,1964,1,1,0,Ленинградская область
+Oblasti (provinces),Lipetsk,Heads of the administration/governors,Igor Artamonov,2018-10-02,,1967,0,1,0,Липецкая область
+Oblasti (provinces),Magadan,Governors,Sergey Nosov,2018-05-28,,1961,0,1,0,Магаданская область
+Oblasti (provinces),Moscow,Governors,Andrey Vorobyov,2012-11-08,,1970,1,1,0,Московская область
+Oblasti (provinces),Murmansk,"Heads of the administration (from Dec 1997, governors)",Andrey Chibis,2019-03-21,,1979,0,1,0,Мурманская область
+Oblasti (provinces),Nizhny Novgorod,"Head of the administration (from Dec 1995, governors)",Gleb Nikitin,2017-09-26,,1977,0,1,0,Нижегородская область
+Oblasti (provinces),Novgorod,Heads of the administration/governors,Andrey Nikitin,2017-02-13,2025-02-07,1979,0,1,0,Новгородская область
+Oblasti (provinces),Novgorod,Heads of the administration/governors,Aleksandr Dronov (acting),2025-02-07,,1979,0,1,0,Новгородская область
+Oblasti (provinces),Novosibirsk,Governors,Andrey Travnikov,2017-10-06,,1971,0,1,0,Новосибирская область
+Oblasti (provinces),Omsk,"Head of the administration (from Dec 1995, governors)",Aleksandr Burkov,2017-10-09,2023-03-29,1967,0,1,0,Омская область
+Oblasti (provinces),Omsk,"Head of the administration (from Dec 1995, governors)",Vitaly Khotsenko,2023-03-29,,1986,0,1,0,Омская область
+Oblasti (provinces),Orenburg,Heads of the administration/governors,Denis Pasler,2019-03-21,2025-03-26,1978,0,1,0,Оренбургская область
+Oblasti (provinces),Orenburg,Heads of the administration/governors,Yevgeny Solntsev (acting),2025-03-26,,1980,0,1,0,Оренбургская область
+Oblasti (provinces),Oryol,Heads of the administration/governors,Andrey Klychkov,2017-10-05,,1979,0,1,0,Орловская область
+Oblasti (provinces),Penza,Heads of the administration/governors,Oleg Melnichenko,2021-03-26,,1973,1,1,0,Пензенская область
+Oblasti (provinces),Pskov,Heads of the administration/governors,Mikhail Vedernikov,2017-10-12,,1975,0,1,0,Псковская область
+Oblasti (provinces),Rostov,Heads of the administration/governors,Vasily Golubev,2010-06-14,2024-11-04,1957,1,1,0,Ростовская область
+Oblasti (provinces),Rostov,Heads of the administration/governors,Yury Slyusar (acting),2024-11-04,,1974,1,1,0,Ростовская область
+Oblasti (provinces),Ryazan,Heads of the administration/governors,Nikolay Lyubimov,2017-02-14,2022-05-10,1971,0,1,0,Рязанская область
+Oblasti (provinces),Ryazan,Heads of the administration/governors,Pavel Malkov,2022-05-10,,1980,0,1,0,Рязанская область
+Oblasti (provinces),Sakhalin,"Heads of the administration (from Oct 1996, governors)",Valery Limarenko,2018-12-07,,1960,0,1,0,Сахалинская область
+Oblasti (provinces),Samara,Heads of the administration/governors,Dmitry Azarov,2017-09-25,2024-05-31,1970,1,1,0,Самарская область
+Oblasti (provinces),Samara,Heads of the administration/governors,Vyacheslav Fedorishchev,2024-05-31,,1989,0,1,0,Самарская область
+Oblasti (provinces),Saratov,"Heads of the administration (from Sep 1996, governors)",Valery Radayev,2012-03-23,2022-05-10,1961,1,1,0,Саратовская область
+Oblasti (provinces),Saratov,"Heads of the administration (from Sep 1996, governors)",Roman Busargin,2022-05-10,,1981,1,1,0,Саратовская область
+Oblasti (provinces),Smolensk,Heads of the administration/governors,Aleksey Ostrovsky,2012-04-20,2023-03-17,1976,0,1,0,Смоленская область
+Oblasti (provinces),Smolensk,Heads of the administration/governors,Vasily Anokhin,2023-03-17,,1983,0,1,0,Смоленская область
+Oblasti (provinces),Sverdlovsk,Governors,Yevgeny Kuyvashev,2012-05-14,2025-03-26,1971,0,1,0,Свердловская область
+Oblasti (provinces),Sverdlovsk,Governors,Denis Pasler (acting),2025-03-26,,1978,1,1,0,Свердловская область
+Oblasti (provinces),Tambov,Heads of the administration/governors,Maksim Yegorov,2021-10-04,2024-11-04,1977,0,1,0,Тамбовская область
+Oblasti (provinces),Tambov,Heads of the administration/governors,Yevgeny Pervyshov (acting),2024-11-04,,1976,0,1,0,Тамбовская область
+Oblasti (provinces),Tomsk,"Head of the administration (from Dec 1995, governors)",Sergey Zhvachkin,2012-03-17,2022-05-10,1957,1,1,0,Томская область
+Oblasti (provinces),Tomsk,"Head of the administration (from Dec 1995, governors)",Vladimir Mazur,2022-05-10,,1966,1,1,0,Томская область
+Oblasti (provinces),Tula,Heads of the administration/governors,Aleksey Dyumin,2016-02-02,2024-05-15,1972,0,1,0,Тульская область
+Oblasti (provinces),Tula,Heads of the administration/governors,Dmitry Milyayev,2024-05-15,,1975,1,1,0,Тульская область
+Oblasti (provinces),Tver,Governors,Igor Rudenya,2016-03-02,,1968,0,1,0,Тверская область
+Oblasti (provinces),Tyumen,Heads of the administration/governors,Aleksandr Moor,2018-05-29,,1974,1,1,0,Тюменская область без АО
+Oblasti (provinces),Ulyanovsk,Heads of the administration/governors,Aleksey Russkikh,2021-04-08,,1968,0,1,0,Ульяновская область
+Oblasti (provinces),Vladimir,Heads of the administration/governors,Aleksandr Avdeyev,2021-10-04,,1975,0,1,0,Владимирская область
+Oblasti (provinces),Volgograd,Heads of the administration/governors,Andrey Bocharov,2014-04-02,,1969,0,1,0,Волгоградская область
+Oblasti (provinces),Vologda,"Heads of the administration (from Oct 1996, governors)",Oleg Kuvshinnikov,2011-12-14,2023-10-31,1965,1,1,0,Вологодская область
+Oblasti (provinces),Vologda,"Heads of the administration (from Oct 1996, governors)",Georgy Filimonov (acting),2023-10-31,,1980,1,1,0,Вологодская область
+Oblasti (provinces),Voronezh,Heads of the administration/governors,Aleksandr Gusev,2017-12-25,,1963,1,1,0,Воронежская область
+Oblasti (provinces),Yaroslavl,"Head of the administration (from Dec 1995, governors)",Mikhail Yevrayev,2021-10-12,,1971,1,1,0,Ярославская область
+Federal cities,Moscow,Mayors,Sergey Sobyanin,2010-10-21,,1958,0,1,0,Москва
+Federal cities,Saint-Petersburg,Governors,Aleksandr Beglov,2018-10-03,,1956,0,1,0,Санкт-Петербург
+Federal cities,Sevastopol,Governors,Mikhail Razvozhayev,2020-10-02,,1980,0,1,0,Севастополь
+Autonomous oblast (province),Yevreyskaya,Heads of the administration,Rostislav Goldshteyn,2019-12-12,2024-11-05,1969,0,1,1,Еврейская АО
+Autonomous oblast (province),Yevreyskaya,Heads of the administration,Mariya Kostyuk (f) (acting),2024-11-05,,1977,1,1,1,Еврейская АО
+Autonomous okruga (districts),Chukotka,Heads of the administration,Roman Kopin,2008-07-03,2023-03-15,1974,1,1,1,Чукотский АО
+Autonomous okruga (districts),Chukotka,Heads of the administration,Vladislav Kuznetsov,2023-03-15,,1969,0,1,1,Чукотский АО
+Autonomous okruga (districts),Khanty-Mansi,"Head of the administration (from Oct 1996, governors)",Natalya Komarova (f),2010-03-01,2024-05-30,1955,0,1,1,Ханты-Мансийский АО
+Autonomous okruga (districts),Khanty-Mansi,"Head of the administration (from Oct 1996, governors)",Ruslan Kukharuk,2024-05-30,,1979,1,1,1,Ханты-Мансийский АО
+Autonomous okruga (districts),Nenets,Heads of the administration,Yury Bezdudny,2020-04-02,2025-03-18,1969,1,1,1,Ненецкий АО
+Autonomous okruga (districts),Nenets,Heads of the administration,Irina Gekht (f) (acting),2025-03-18,,1969,0,1,1,Ненецкий АО
+Autonomous okruga (districts),Yamalo-Nenets,"Heads of the administration (from Oct 1996, governors)",Dmitry Artyukhov,2018-05-29,,1988,1,1,1,Ямало-Hенецкий АО
