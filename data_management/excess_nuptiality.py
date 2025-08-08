@@ -206,7 +206,7 @@ def main():
 
     df_full = extend_pipeline_with_marriages(final_df, region_mapping)
 
-    output_path = "../data/excess_mortality_and_marriages.csv"
+    output_path = "../data/intermediate/excess.csv"
     df_full.to_csv(output_path, index=False)
     print(f"Saved final results to {output_path}")
 
